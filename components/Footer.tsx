@@ -24,7 +24,7 @@ export function Footer() {
             </Link>
           </li>
           <li>
-            <Link href="/projects">
+            <Link href="https://github.com/Mitacho">
               <a title={t["projects-title"]}>{t.projects}</a>
             </Link>
           </li>
