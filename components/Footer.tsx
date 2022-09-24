@@ -5,7 +5,7 @@ export function Footer() {
   const { t } = useTranslation();
 
   return (
-    <footer className="container mx-auto px-4 font-medium text-sm text-neutral-900 dark:text-neutral-300 bg-amber-50 dark:bg-[#111111]">
+    <footer className="container mx-auto px-4 font-medium text-sm text-neutral-900 dark:text-neutral-300 bg-white dark:bg-[#111111]">
       <nav>
         <ul className="h-20 flex items-center justify-between">
           <li>
