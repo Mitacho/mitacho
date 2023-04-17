@@ -1,9 +1,6 @@
 <h1 align="center">About me<a href="#"><img width="100" height="auto" src="https://c.tenor.com/KCMlPdCHBcQAAAAi/hello-hi.gif" alt="Annyeong"></a></h1>
 
 <p align="center">Software Developer</p>
-<p align="center">
-    <a href="https://mitacho.vercel.app">check out my personal website ( under development )</a>
-</p>
 
 
 <p align="center">
